@@ -16,8 +16,8 @@ To install and run the WhatsForDinner application, follow these steps:
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/angiemelo/whatsForDinner.git
-    cd whatsForDinner
+    git clone https://github.com/angiemelo/WhatsForDinner.git
+    cd WhatsForDinner
     ```
 
 2. **Build the Project:**
